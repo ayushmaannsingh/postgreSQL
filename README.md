@@ -8,4 +8,3 @@ making it ideal for web, mobile, geospatial, and analytics applications,
 
 with extensive community support and availability on major cloud platforms. 
   
-  
