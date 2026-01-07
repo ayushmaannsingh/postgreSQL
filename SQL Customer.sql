@@ -26,6 +26,8 @@ WHERE ID = 4;
 
 
 
+
 SELECT * FROM customer;
+
 
 
