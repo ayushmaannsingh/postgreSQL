@@ -21,13 +21,10 @@ WHERE ID = 1;
 DELETE FROM customer
 WHERE ID = 4;
 
-
-
-
-
-
-
 SELECT * FROM customer;
+
+
+
 
 
 
